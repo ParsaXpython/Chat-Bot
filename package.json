@@ -1,0 +1,9 @@
+{
+  "name": "Chat-Bot",
+  "version": "1.0.0",
+  "description": "A Real-Time chat bot with rivescript",
+  "main": "app.js",
+  "repository": "https://github.com/ParsaXpython/Chat-Bot.git",
+  "author": "ParsaXpython <samkohan69@gmail.com>",
+  "license": "MIT"
+}
