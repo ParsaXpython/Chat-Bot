@@ -7,10 +7,15 @@
   "author": "ParsaXpython <samkohan69@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "4.17.1"
+    "@material-ui/core": "4.x.x",
+    "express": "4.17.1",
+    "react": "17",
+    "react-dom": "17"
   },
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"
+    "dev:server": "nodemon app.js",
+    "dev:frontend": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --no-minify"
   }
 }
