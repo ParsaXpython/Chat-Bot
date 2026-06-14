@@ -15,7 +15,7 @@
   "scripts": {
     "start": "node app.js",
     "dev:server": "nodemon app.js",
-    "dev:frontend": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --no-minify"
+    "dev:frontend": "rmdir /s /q ./dist && parcel ./src/index.html",
+    "build": "rmdir /s /q ./dist && parcel build ./src/index.html --no-minify"
   }
 }
