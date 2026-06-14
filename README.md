@@ -8,7 +8,6 @@
 
 # 🤖 Chat-Bot | A Real-Time Chat Bot with RiveScript
 
-[![Node.js CI](https://github.com/ParsaXpython/Chat-Bot/actions/workflows/node.js.yml/badge.svg)](https://github.com/ParsaXpython/Chat-Bot/actions/workflows/node.js.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-12.22.12-brightgreen)](https://nodejs.org/)
 [![Express.js Version](https://img.shields.io/badge/express-4.17.1-blue)](https://expressjs.com/)
