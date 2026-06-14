@@ -51,4 +51,13 @@ font-face {
 * {
     user-select: none;
     font-family: Shabnam;
+    margin: 0;
+}
+
+body, html {
+    overflow: hidden;
+}
+
+.MuiGrid-root {
+    height: 100%;
 }
