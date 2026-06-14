@@ -83,7 +83,7 @@ Follow these steps to get the project running on your local machine.
     npm start
     ```
 The application will be available at `http://localhost:3000`<br/>
-4. **Run in production mode** <br>
+4. **Run in production mode**
     ```bash
     npm run build
     node app.js
