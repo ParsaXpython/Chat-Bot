@@ -73,3 +73,57 @@ Follow these steps to get the project running on your local machine.
     ```bash
     git clone https://github.com/ParsaXpython/Chat-Bot.git
     cd Chat-Bot
+    ```
+2. **Install dependencies**
+    ```bash
+    npm install
+    ```
+3. **Run in development mode**
+    ```bash
+    npm start
+    ```
+The application will be available at `http://localhost:3000`<br/>
+4. **Run in production mode** <br>
+    ```bash
+    npm run build
+    node app.js
+    ```
+# 📂 Project Structure
+```text
+Chat-Bot/
+│                 
+├── src/                    # Client-side code (React)
+│   ├── components/         # React components
+|   └── public              # Static Files
+├── brain                   # RiveScript knowledge files
+├── snapshots/              # Project images
+├── .gitignore
+├── app.js                  # Main server file (Express)
+├── package.json
+└── README.md
+```
+>Note: The exact structure may evolve as the project grows.
+
+# 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## Ideas for contributions:
+* ✨ Add new responses to RiveScript knowledge base
+* 🎨 Improve UI/UX design
+* 🌐 Add multi-language support
+* 📱 Optimize for mobile devices
+
+# 📜 License
+This project is licensed under the MIT License. See the `LICENSE` file for more information.
+
+# 👤 Author
+**ParsaXpython**
+* GitHub: [@ParsaXpython](https://github.cmo/ParsaXpython/)
+<div align="center"> <sub>Built with ❤️ by <a href="https://github.com/ParsaXpython">ParsaXpython</a></sub> </div>
