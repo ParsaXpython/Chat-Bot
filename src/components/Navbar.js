@@ -41,7 +41,7 @@ export default function SimpleNavbar() {
         <Toolbar className={classes.toolbar}>
           {/* لوگو/اسم برنامه */}
           <Typography className={classes.logoText}>
-            Title
+            Chat Bot with RiveScript ( ParsaXpython )
           </Typography>
           
           
