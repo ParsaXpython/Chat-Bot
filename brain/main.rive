@@ -1,0 +1,11 @@
+! version = 2.0
+
+> begin 
+    + request
+    - {ok}
+< begin 
+
+> topic random 
+    + hello
+    - hi, there!
+< topic

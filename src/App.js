@@ -93,15 +93,28 @@ export default function App() {
         setMessages(prev => [...prev, userMessage]);
         setIsTyping(true);
 
-        setTimeout(() => {
-            const aiResponse = {
-                sender: 'ai',
-                text: `پاسخ به: "${message}"`,
-                timestamp: Date.now()
-            };
-            setMessages(prev => [...prev, aiResponse]);
-            setIsTyping(false);
-        }, 1500);
+        await fetch('/api/send', {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify({
+                message: message
+            })
+        })
+            .then(res => {
+                if (!res.ok) throw new Error(res.statusText);
+                return res.json();
+            })
+            .then(data => {
+                const aiResponse = {
+                    sender: 'ai',
+                    text: data.message,
+                    timestamp: Date.now()
+                };
+                setMessages(prev => [...prev, aiResponse]);
+                setIsTyping(false);
+            });
     };
 
     return ( 

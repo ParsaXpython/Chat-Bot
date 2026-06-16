@@ -50,7 +50,7 @@ font-face {
 
 * {
     user-select: none;
-    font-family: Shabnam;
+    font-family: Shabnam !important;
     margin: 0;
 }
 
