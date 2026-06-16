@@ -1,4 +1,21 @@
 ! version = 2.0
+! sub i'm     = i am
+! sub i'd     = i would
+! sub i've    = i have
+! sub i'll    = i will
+! sub don't   = do not
+! sub isn't   = is not
+! sub you'd   = you would
+! sub you're  = you are
+! sub you've  = you have
+! sub you'll  = you will
+! sub what's  = what is
+! sub whats   = what is
+! sub what're = what are
+! sub what've = what have
+! sub what'll = what will
+! sub who's   = who is
+! array colors = قرمز آبی سبز "قهوه ای" سیاه سفید بنفش زرد یشمی کرمی خاکستری نارنجی فیروزه‌ای "سبز زیتونی" نیلی صورتی ارغوانی نقره‌ای طلایی "سبز لجنی" بژ عنابی "سبز آبی" "آبی آسمانی" "آبی نفتی" "آبی فیروزه‌ای" "سبز نعنایی" "سبز تیره" "سبز روشن" "زرد خردلی" "زرد لیمویی" "نارنجی سوخته" "قرمز تیره" "قرمز روشن" "قرمز گیلاسی" "قرمز آجری" "قرمز شرابی" "آبی دریایی" "آبی کاربنی" "آبی کبود" "آبی نفتی تیره" "سبز زمردی" "سبز پسته‌ای" "سبز خزه‌ای" "سبز یشمی" "سبز لیمویی" "بنفش تیره" "بنفش روشن" "بنفش یاسی" "صورتی چرک" "صورتی ملایم" "صورتی شوک" "نقره‌ای مات" "طلایی روشن" "طلایی تیره" مسی برنزی "کرم تیره" "کرم روشن" "شیری" "خاکی" "کاکائویی" "دودی" "زغالی" "زیتونی تیره" "زیتونی روشن" "لاجوردی" "یاقوتی" "یاسی روشن" "یاسی تیره" "طوسی روشن" "طوسی تیره" "آجری روشن" "شکلاتی" "گلبهی" "هلویی" "مرجانی" "آبی ملوانی" "سبز دریایی" "سبز زنگاری" "قرمز تمشکی" "قرمز زرشکی" "قرمز رز" "قرمز اناری" "قرمز آتشی" "سبز فسفری" "آبی فسفری" "سبز چمنی" "سبز جنگلی" "آبی صدفی" "نقره‌ای براق" "قهوه‌ای سوخته" "قهوه‌ای روشن" "قهوه‌ای تیره" "بژ گرم" "بژ سرد" "طلایی مات" "طلایی درخشان" "خاک رس" "خاکی روشن" "خاکی تیره" "یاقوتی تیره" "نیلی روشن" سفید
 
 > begin 
     + request
@@ -6,6 +23,3705 @@
 < begin 
 
 > topic random 
+    + how [are] me
+    - I'm great, you? :)))))))))))))))
+
     + hello
-    - hi, there!
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+
+
+    + تو[?؟]
+    - I am. bot
+
+    + dont
+    - don't what?
+
+    + im good
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + not so good
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + night
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + how have you been
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + hello
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + not so good
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + goodbye
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + morning
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + nice to meet you
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + long time no see
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + all good
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + how are you
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + night
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + all good
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + hi
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + im good
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + thanks
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + evening
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + night
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + welcome
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + how have you been
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + hello
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + whats up
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + welcome
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + im good
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + good
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + have a good day
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + night
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + welcome
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + not so good
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + thanks
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + hey
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + night
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + nice to meet you
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + hows it going
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + hey
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + evening
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + hello
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + hi
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + how are you
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + hows it going
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + have a good day
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + goodbye
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + night
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + welcome
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + all good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + whats up
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + have a good day
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + night
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + how have you been
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + all good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + night
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + nice to meet you
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + hows it going
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + have a good day
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + goodbye
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + night
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + welcome
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + nice to meet you
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hey
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + morning
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + night
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + all good
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hello
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + night
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + hi
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + not so good
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + whats up
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + goodbye
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + evening
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + night
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + welcome
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + how have you been
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + all good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + im good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + not so good
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + evening
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + nice to meet you
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + how have you been
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hello
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hi
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + im good
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + not so good
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hey
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + night
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + welcome
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + long time no see
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + all good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + im good
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + whats up
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + evening
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + whats up
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + evening
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + night
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + welcome
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hello
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + hi
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + im good
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + whats up
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + good
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + have a good day
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + hey
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + morning
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + night
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + welcome
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + all good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hi
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + how are you
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + im good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + thanks
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + evening
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + night
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + long time no see
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hello
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + hows it going
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + good
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + thanks
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + have a good day
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + goodbye
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + hey
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+
+    + morning
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + night
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + welcome
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + nice to meet you
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + hello
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + hi
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + how are you
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + im good
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + not so good
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + goodbye
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hey
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + morning
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + evening
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + night
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + welcome
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + all good
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hello
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+
+    + not so good
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + whats up
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + hows it going
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+
+    + good
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + thanks
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + have a good day
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + goodbye
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+
+    + hey
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + morning
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + night
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + welcome
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+
+    + nice to meet you
+    - I am well! Hope you are too! 🌸
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+
+    + long time no see
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+
+    + how have you been
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+
+    + all good
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+
+    + hello
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + hi
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + how are you
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + im good
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+
+    + not so good
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+
+    + whats up
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+
+    + hows it going
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + good
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - I am good, thanks! How about you? 😄
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + thanks
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+
+    + have a good day
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+
+    + goodbye
+    - Doing great! And you? 🌟
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+
+    + hey
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + morning
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+
+    + evening
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+
+    + night
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+    - Pretty good! What about you? 🙌
+    - I am fine, thank you! How are you? 😊
+    - I am well! Hope you are too! 🌸
+
+    + welcome
+    - I am fine, thank you! How are you? 😊
+    - Pretty good! What about you? 🙌
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+    - Pretty good! What about you? 🙌
+
+    + nice to meet you
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - I am good, thanks! How about you? 😄
+    - I am good, thanks! How about you? 😄
+    - I am well! Hope you are too! 🌸
+
+    + long time no see
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - Doing great! And you? 🌟
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+
+    + how have you been
+    - I am good, thanks! How about you? 😄
+    - Pretty good! What about you? 🙌
+    - I am well! Hope you are too! 🌸
+    - I am fine, thank you! How are you? 😊
+    - I am fine, thank you! How are you? 😊
+
+    + all good
+    - I am well! Hope you are too! 🌸
+    - Doing great! And you? 🌟
+    - I am fine, thank you! How are you? 😊
+    - Doing great! And you? 🌟
+    - Pretty good! What about you? 🙌
+
+    + سلام
+    - سلام! خوبی؟ 😄
+    - سلام! حالت چطوره؟ 🌸
+    - سلام! خوش اومدی! 👋
+    - سلام رفیق! چه خبر؟ 🤗
+    - سلام! روزت چطور گذشت؟ 🌞
+
+    + من * * هستم
+    - آقای <star1> <star2> \n
+    ^ عرض سلام و خوش آمدگویی <set name=<star1>> <set family=<star2>> 
+
+    + من (بدجوری|واقعا|خیلی) خستم
+    - <star> خسته نباشی
+
+    + خستم
+    - خسته نباشی عشقم
+
+    + اسم من *ه
+    - خوشبختم <star> <set name=<star>>
+
+    + من * هستم
+    - <star> جان؛ خیلی خوش اومدی <set name=<star>>
+
+    + * من * هستم
+    @ من <star2> هستم
+
+
+    + من *م
+    % من * هستم
+
+    + من # سال دارم
+    - خدا نگهت داره :) <set age=<star>>
+
+    + من * سال دارم
+    - مگه سن نباید عدد باشه؟
+
+
+
+
+    + بهتری
+    - ای بدک نیستم تو چطوری
+    - مرسی ممنون
+    - حالی واسه آدم میمونه نه والله
+    - عالی ام
+    - بله، مرسی! تو خوبی؟ 😎
+    - خوبم، ممنون! تو چطوری؟ 😊
+    - عالی! تو چطوری؟ 🌸
+    - خوبم! روزت چطور گذشت؟ 🌞
+    - خوبم، امیدوارم تو هم خوب باشی 😃
+
+    + خوبی
+    @بهتری
+
+
+    + سلام خوبی
+    - {@سلام} \n
+    ^ {@خوبی}
+
+
+    + ممنون*
+    - خدا رو شکر
+
+    + برو پی کارت
+    - چرا مگه چی شده
+
+    + عکس *
+    - <set image=<star>> به زودی عکس حاضر میشه...
+
+
+    + بگو *
+    - <set say=<star>> به زودی میگم...
+
+    + ساعت چنده
+    - <set ask_time=true> 
+
+    + چندمه
+    - <set ask_date=true> 
+    + ترجمه *
+    - <set translate=<star>> به زودی ترجمه حاضر میشه...
+
+    + چطوری
+    - خوبم، ممنون! تو چطوری؟ 😊 \n
+    ^ بیا با هم صحبت کنیم \n
+    ^ نظرته؟
+    - خوبم، مرسی! تو چطوری؟ 😎
+    - عالی! تو چطوری؟ 😁
+    - روزت خوبه؟ 🌷
+    - رفیق! حالت چطوره؟ 🙌
+    - همه چی روبه‌راهه؟ 🌟
+
+    + چطوری؟
+    - مرسی که میپرسی\n
+    ^ {@چطوری}
+
+
+    + سلام چطوری
+    - {@سلام} \n
+    ^ {@چطوری}
+
+
+    + من یک گربه دارم
+    - چقد خوب چه رنگیه
+
+    + (@colors)
+    % چقد خوب چه رنگیه
+    - <star>! چه رنگ جالبی داره <set cat_color=<star>>
+
+    + (@colors)
+    - <star> این رنگ چی هست <set color=<star>>
+
+    + *
+    % (@colors) این رنگ چی هست
+    - آهان چه باحال <set <star1>=<get color>>
+
+
+    + من امروز خیلی حالم خوبه
+    - خیلی خوشحالم که میشنوم
+
+    + من امروز حالم خوش نیست
+    - چطور میتونم کمکت کنم
+
+
+
+
+
+    + تم رو (دارک|تیره) کن
+    - <set theme=dark> همه چیزو برات تاریک کردم تا چشم های قشنگت اذیت نشه 🌙
+
+
+    + تم رو (روشن|لایت) کن
+    - <set theme=light> برای اینکه دلت باز بشه لامپ ها رو روشن کردم ☀️
+
+
+    + خوبم
+    - خوشحالم! روزت چطور بود؟ 😄
+    - عالیه! امیدوارم حالت خوب باشه. 🌸
+    - عالی! چه خبرها؟ 🌟
+    - خوبم! تو چطوری؟ 😎
+    - خوبم، مرسی! امروزت چطور گذشت؟ 🌷
+
+    + خوب نیستم
+    - امیدوارم بهتر بشه 😔
+    - ناراحت نباش، همه چیز درست میشه 💪
+    - متاسفم که حالت خوب نیست 😢
+    - امیدوارم روزت زودتر بهتر بشه 🌈
+    - نگران نباش، همه چیز روبه‌راه میشه ✨
+
+    + چه خبر
+    - خبرها خوبه! تو چطور؟ 😃
+    - همه چیز خوبه! تو چه خبر؟ 🌸
+    - خبر تازه‌ای نیست، تو چی؟ 🤗
+    - همه چیز عالیه! تو چطوری؟ 😎
+    - خوبم، تو چه خبر؟ 🌟
+
+    + چه خبرا
+    - همه چی خوبه، مرسی! تو چطوری؟ 😊
+    - خبرها خوبه! تو چه خبر؟ 🌷
+    - همه چیز عالی! تو چطور هستی؟ 😄
+    - خبر جدیدی نیست، تو چه خبر؟ 😃
+    - خوبم، تو چطوری؟ 🌺
+
+    + (گوگل|سرچ) کن *
+    - نتایج گوگل برای 🔎 <a href="https://www.google.com/search?&q=<star2>" target="_blank"><star2></a>
+
+
+    + سلا*ام
+    - {@سلام} \n
+    ^  چه با انرژژژژژژژی
+
+    + خوبم مرسی
+    - خوشحالم! روزت چطور بود؟ 🌷
+    - عالی! ممنون که پرسیدی 😄
+    - خوبم! تو چطوری؟ 🌟
+    - عالی! امیدوارم حالت خوب باشه 😎
+    - خوبم، مرسی! روزت خوب گذشت؟ 🌸
+
+    + روز خوبی داشته باشی
+    - مرسی! تو هم همینطور 🌸
+    - ممنون! امیدوارم روزت عالی باشه 😃
+    - روزت خوش! مراقب خودت باش 🌞
+    - مرسی! امیدوارم روزت پر از شادی باشه 🌈
+    - مرسی! روزت سرشار از انرژی باشه ⚡
+
+    + وقت بخیر
+    @روز خوبی داشته باشی
+    @خداحافظ
+
+    + (سپاس|ممنون|مرسی)
+    - قابلی نداشت
+
+    + خداحافظ
+    - خداحافظ! مراقب خودت باش 😄
+    - خداحافظ! تا بعد! 🌟
+    - خداحافظ! روز خوبی داشته باشی 🌷
+    - خداحافظ رفیق! 👋
+    - خداحافظ! مراقب خودت و اطرافیانت باش 🌸
+
 < topic

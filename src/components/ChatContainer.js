@@ -13,76 +13,98 @@ const useStyles = makeStyles((theme) => ({
     backgroundColor: '#fafafa',
     display: 'flex',
     flexDirection: 'column',
-    gap: '24px',
+    gap: '16px',
     height: '100%',
     width: '100%',
-    minHeight: 0, // کلیدی برای flex
+    minHeight: 0,
+    // ===== فقط اینجا وسط‌چین می‌شود =====
+    [theme.breakpoints.up('md')]: {
+      maxWidth: '800px',
+      margin: '0 auto',
+      padding: '24px 32px',
+      height: 'calc(100% - 32px)',
+      marginTop: '16px',
+      marginBottom: '16px',
+    },
+    [theme.breakpoints.up('lg')]: {
+      maxWidth: '900px',
+    },
   },
+  // ========== پیام کاربر ==========
   userMessage: {
     display: 'flex',
     justifyContent: 'flex-end',
+    alignItems: 'flex-start',
     gap: '12px',
     width: '100%',
   },
   userContent: {
     maxWidth: '70%',
-    backgroundColor: '#ffffff',
-    border: '1px solid #e5e5e5',
-    borderRadius: '20px',
-    padding: '12px 16px',
+    backgroundColor: '#007aff',
+    color: '#ffffff',
+    borderRadius: '18px',
+    padding: '10px 16px',
     borderBottomRightRadius: '4px',
+    order: 1,
   },
+  userAvatar: {
+    order: 2,
+    width: '32px',
+    height: '32px',
+    flexShrink: 0,
+    backgroundColor: '#1f1f1f',
+  },
+  // ========== پیام ربات ==========
   aiMessage: {
     display: 'flex',
     justifyContent: 'flex-start',
+    alignItems: 'flex-start',
     gap: '12px',
     width: '100%',
   },
   aiContent: {
     maxWidth: '70%',
-    backgroundColor: '#ffffff',
-    border: '1px solid #e5e5e5',
-    borderRadius: '20px',
-    padding: '12px 16px',
+    backgroundColor: '#f1f0f0',
+    color: '#1f1f1f',
+    borderRadius: '18px',
+    padding: '10px 16px',
     borderBottomLeftRadius: '4px',
   },
-  avatar: {
+  aiAvatar: {
     width: '32px',
     height: '32px',
     flexShrink: 0,
-  },
-  avatarAI: {
     backgroundColor: '#0066cc',
   },
-  avatarUser: {
-    backgroundColor: '#1f1f1f',
-  },
+  // ========== متن و زمان ==========
   messageText: {
     fontSize: '0.9rem',
     lineHeight: 1.5,
-    color: '#1f1f1f',
     whiteSpace: 'pre-wrap',
     wordBreak: 'break-word',
+    color: 'inherit',
   },
   timestamp: {
-    fontSize: '0.7rem',
-    color: '#9ca3af',
+    fontSize: '0.65rem',
+    opacity: 0.7,
     marginTop: '4px',
     textAlign: 'right',
   },
   timestampAI: {
-    fontSize: '0.7rem',
-    color: '#9ca3af',
+    fontSize: '0.65rem',
+    opacity: 0.7,
     marginTop: '4px',
     textAlign: 'left',
   },
+  // ========== تایپینگ ==========
   typingIndicator: {
     display: 'flex',
     alignItems: 'center',
     gap: '8px',
     padding: '12px 16px',
-    backgroundColor: '#f0f0f0',
-    borderRadius: '20px',
+    backgroundColor: '#f1f0f0',
+    borderRadius: '18px',
+    borderBottomLeftRadius: '4px',
     width: 'fit-content',
   },
   dot: {
@@ -128,13 +150,13 @@ export default function ChatContainer({ messages, isTyping }) {
                   {formatTime(msg.timestamp)}
                 </div>
               </div>
-              <Avatar className={`${classes.avatar} ${classes.avatarUser}`}>
+              <Avatar className={classes.userAvatar}>
                 <PersonIcon />
               </Avatar>
             </div>
           ) : (
             <div className={classes.aiMessage}>
-              <Avatar className={`${classes.avatar} ${classes.avatarAI}`}>
+              <Avatar className={classes.aiAvatar}>
                 <SmartToyIcon />
               </Avatar>
               <div className={classes.aiContent}>
@@ -152,7 +174,7 @@ export default function ChatContainer({ messages, isTyping }) {
 
       {isTyping && (
         <div className={classes.aiMessage}>
-          <Avatar className={`${classes.avatar} ${classes.avatarAI}`}>
+          <Avatar className={classes.aiAvatar}>
             <SmartToyIcon />
           </Avatar>
           <div className={classes.typingIndicator}>
