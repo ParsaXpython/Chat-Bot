@@ -1,0 +1,39 @@
+name: Build and Save Artifact
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: دریافت کد از مخزن
+        uses: actions/checkout@v4
+
+      - name: راه‌اندازی Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # یا نسخه‌ای که در پروژه استفاده می‌شود
+          cache: 'npm'
+
+      - name: نصب وابستگی‌ها
+        run: npm ci
+
+      - name: ساخت پروژه (Build)
+        run: npm run build
+
+      - name: آپلود خروجی به عنوان Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: chat-bot-build
+          path: |
+            build/           # پوشه خروجی React
+            app.js           # فایل اصلی سرور
+            brain/           # فایل‌های دانش ربات
+            package.json     # برای نصب وابستگی‌های سرور
+            node_modules/    # (اختیاری) برای اجرای سرور
