@@ -2,7 +2,6 @@ import React, { useRef, useEffect } from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography';
-import SmartToyIcon from '@material-ui/icons/SmartPhone';
 import PersonIcon from '@material-ui/icons/Person';
 
 const useStyles = makeStyles((theme) => ({
@@ -157,7 +156,6 @@ export default function ChatContainer({ messages, isTyping }) {
           ) : (
             <div className={classes.aiMessage}>
               <Avatar className={classes.aiAvatar}>
-                <SmartToyIcon />
               </Avatar>
               <div className={classes.aiContent}>
                 <Typography className={classes.messageText}>
