@@ -20,5 +20,6 @@
     "dev:server": "nodemon app.js",
     "dev:frontend": "rmdir /s /q dist && parcel ./src/index.html",
     "build": "rmdir /s /q dist && parcel build ./src/index.html --no-minify"
-  }
+  },
+  "allowScripts": {}
 }
