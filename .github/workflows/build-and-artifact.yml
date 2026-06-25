@@ -18,11 +18,11 @@ jobs:
       - name: راه‌اندازی Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18' # یا نسخه‌ای که در پروژه استفاده می‌شود
+          node-version: '18'
           cache: 'npm'
 
       - name: نصب وابستگی‌ها
-        run: npm ci
+        run: npm install # تغییر از npm ci به npm install
 
       - name: ساخت پروژه (Build)
         run: npm run build
@@ -32,8 +32,8 @@ jobs:
         with:
           name: chat-bot-build
           path: |
-            build/           # پوشه خروجی React
-            app.js           # فایل اصلی سرور
-            brain/           # فایل‌های دانش ربات
-            package.json     # برای نصب وابستگی‌های سرور
-            node_modules/    # (اختیاری) برای اجرای سرور
+            build/
+            app.js
+            brain/
+            package.json
+            node_modules/
